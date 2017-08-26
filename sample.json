@@ -1,0 +1,22 @@
+{
+  "E:\\nagexiucai\\pmdd\\cfg.py": [
+    "os",
+    "pprint"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\entry.py": [
+    "cfg",
+    "explicit.libe",
+    "libi",
+    "os",
+    "sys"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\explicit\\__init__.py": [
+    "cfg"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\implicit\\libi.py": [
+    "cfg",
+    "momus",
+    "momus.c",
+    "momus.d"
+  ]
+}
