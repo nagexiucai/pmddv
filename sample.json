@@ -5,6 +5,7 @@
   ],
   "E:\\nagexiucai\\pmdd\\test\\entry.py": [
     "cfg",
+    "explicit",
     "explicit.libe",
     "libi",
     "os",
@@ -13,10 +14,39 @@
   "E:\\nagexiucai\\pmdd\\test\\explicit\\__init__.py": [
     "cfg"
   ],
+  "E:\\nagexiucai\\pmdd\\test\\explicit\\libe.py": [
+    "cfg",
+    "explicit",
+    "explicit.intricacy"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\explicit\\intricacy\\__init__.py": [
+    "cfg",
+    "explicit",
+    "explicit.intricacy",
+    "explicit.intricacy.a",
+    "explicit.intricacy.b"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\explicit\\intricacy\\a.py": [
+    "cfg"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\explicit\\intricacy\\b.py": [
+    "cfg"
+  ],
   "E:\\nagexiucai\\pmdd\\test\\implicit\\libi.py": [
     "cfg",
     "momus",
     "momus.c",
     "momus.d"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\implicit\\momus(namespace)": [
+    "momus.c",
+    "momus.d"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\implicit\\momus\\c.py": [
+    "cfg",
+    "momus.d"
+  ],
+  "E:\\nagexiucai\\pmdd\\test\\implicit\\momus\\d.py": [
+    "cfg"
   ]
 }
